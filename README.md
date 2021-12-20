@@ -47,3 +47,5 @@ Para os dias e horários de pico de atendimento, sugerimos:
 * Melhora na qualidade da triagem dos atendimentos.
 * Melhor organização da escala de funcionários.
 * Aumento do efetivo de funcionários nas agências com grande volume de emissão de senhas.
+
+Link para visualizar a apresentação no Tableau: https://public.tableau.com/shared/7C5HWKCF7?:display_count=n&:origin=viz_share_link
