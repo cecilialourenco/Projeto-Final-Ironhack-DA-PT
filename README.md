@@ -1,5 +1,7 @@
 # projeto-final
 
+ANÁLISE SOBRE O TEMPO DE ESPERA DOS ATENDIMENTOS NAS AGÊNCIAS DO BANCO DC
+
 Apresentação:
 
 Nos dias atuais, o dinamismo é um dos fatores-chave na relação entre pessoas e organizações. Qualquer tipo de atraso operacional é visto como uma característica negativa e acarreta o descontentamento por parte dos clientes.
